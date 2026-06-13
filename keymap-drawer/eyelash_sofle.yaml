@@ -55,8 +55,8 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
-  - Gui+Alt+$$mdi:apple-keyboard-option$$
-  - Gui+$$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - LAYER1
   - $$mdi:keyboard-space$$
   - $$mdi:volume-off$$
@@ -87,9 +87,9 @@ layers:
   - '&mkp MB4'
   - '&bl BL_OFF'
   - PG UP
-  - END
-  - $$mdi:arrow-up-bold$$
   - HOME
+  - $$mdi:arrow-up-bold$$
+  - END
   - {t: \, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
